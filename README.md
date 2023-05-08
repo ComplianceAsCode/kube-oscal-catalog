@@ -7,7 +7,7 @@ To create the initial OSCAL catalog:
 
 1. Install `CIS_Kubernetes_Benchmark_v1.7.0.xlsx` in data folder
 
-2. Run: `trestle task cis-xlsx-to-oscal-catalog data/cis-xlsx-ocp-to-oscal-catalog.config`
+2. Run: `trestle task cis-xlsx-to-oscal-catalog -c data/cis-xlsx-ocp-to-oscal-catalog.config`
 
 
 #### automation scripts customizations
