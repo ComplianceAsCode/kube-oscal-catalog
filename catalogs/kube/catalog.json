@@ -1,9 +1,9 @@
 {
   "catalog": {
-    "uuid": "286c78eb-1d31-4b03-9d33-d399cd7fa355",
+    "uuid": "60d86c6c-829f-4d19-ae57-760fc80065d2",
     "metadata": {
       "title": "CIS Kubernetes Benchmark",
-      "last-modified": "2023-05-08T12:11:55+00:00",
+      "last-modified": "2023-05-08T18:44:29+00:00",
       "version": "v1.7.0",
       "oscal-version": "1.0.4"
     },
@@ -89,7 +89,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#54274e19-a80f-46a4-8c86-1a29ea76845a",
+                    "href": "#39de5eb6-3189-4641-b77c-0e6c9a67947c",
                     "rel": "reference"
                   }
                 ],
@@ -178,7 +178,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#df8957cb-3d1a-457c-92b8-2c5daa377a77",
+                    "href": "#9d41624d-8e75-41d2-ad52-0d40336c9a87",
                     "rel": "reference"
                   }
                 ],
@@ -267,7 +267,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#2caad50f-6d82-49a6-8d6f-7e5ba77d1ddc",
+                    "href": "#54814cb1-5517-4316-a1de-568fa993892f",
                     "rel": "reference"
                   }
                 ],
@@ -356,7 +356,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#3a382954-8b4c-4251-8f20-d2461f9bd5d9",
+                    "href": "#fa897d4e-d520-47ed-956c-2e375fb66803",
                     "rel": "reference"
                   }
                 ],
@@ -445,7 +445,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#0530c0e9-32ac-41a1-8afa-6de5c8a18e6e",
+                    "href": "#e554c7df-8bbc-42fc-969f-c8e6b3b85dd3",
                     "rel": "reference"
                   }
                 ],
@@ -534,7 +534,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#414e5cff-fa6d-48e4-adf8-607a08cdddcb",
+                    "href": "#25ae75cb-74ca-40c1-b853-21593837255d",
                     "rel": "reference"
                   }
                 ],
@@ -623,7 +623,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#a473e4c0-3624-408b-ba02-0abc478d3dae",
+                    "href": "#ba834eeb-eb11-4774-8070-54029b64a534",
                     "rel": "reference"
                   }
                 ],
@@ -712,7 +712,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#ae8bbc9e-0216-4a73-926e-9f5f16fd2340",
+                    "href": "#4d968954-7c04-4fc8-9425-2835a4e78e64",
                     "rel": "reference"
                   }
                 ],
@@ -801,7 +801,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#e67fee3d-464c-4933-b4ee-e7569b56d0f0",
+                    "href": "#6e0abc91-793a-42c0-8ec5-54b5c84fe8ec",
                     "rel": "reference"
                   }
                 ],
@@ -890,7 +890,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#4dbe6cb5-552f-4ff3-9d06-def6c6ad299d",
+                    "href": "#e7d60e09-0e42-431c-951f-c735775908d3",
                     "rel": "reference"
                   }
                 ],
@@ -979,7 +979,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#55321c24-5df4-4051-8926-c3c336d57d49",
+                    "href": "#48cd216c-08cc-4931-9059-3f6c11ceb30d",
                     "rel": "reference"
                   }
                 ],
@@ -1068,7 +1068,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#5b39e0bf-0c02-4cbe-ae69-e84abc4c7dec",
+                    "href": "#216dba97-a573-4554-9969-b918f1403fec",
                     "rel": "reference"
                   }
                 ],
@@ -1157,7 +1157,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#b0067170-3955-474c-8e43-7273e1fe1843",
+                    "href": "#0844898a-22ca-43df-a7a0-f553aba861a8",
                     "rel": "reference"
                   }
                 ],
@@ -1246,7 +1246,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#dedee445-089f-4004-ae07-b99e560aeb2c",
+                    "href": "#7a5a6412-25d0-469a-a81c-b48a7d167377",
                     "rel": "reference"
                   }
                 ],
@@ -1335,7 +1335,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#3027234b-78e7-4e0c-97d5-ff584eaa0a97",
+                    "href": "#fbbd2c84-a0be-4851-8324-636b01384f72",
                     "rel": "reference"
                   }
                 ],
@@ -1424,7 +1424,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#b144d361-0326-42f0-8cc9-d6363de38e7b",
+                    "href": "#f1aa1af8-4b76-45bc-bc33-9f3895d98a0d",
                     "rel": "reference"
                   }
                 ],
@@ -1513,7 +1513,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#240d5f8b-d651-46a2-8ec1-de0735903eb4",
+                    "href": "#afcf47ff-ce82-43d4-a407-09a5762c2fba",
                     "rel": "reference"
                   }
                 ],
@@ -1602,7 +1602,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#ce5bee66-a7a1-40b3-9590-9e67fd2f0da9",
+                    "href": "#6046f30b-6be9-49f8-86f6-f2b05e0d0da2",
                     "rel": "reference"
                   }
                 ],
@@ -1691,7 +1691,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#6d90514d-6486-404f-8736-253ee80b2bd7",
+                    "href": "#a4d065c1-599d-4291-ae6c-b46ce15dc77e",
                     "rel": "reference"
                   }
                 ],
@@ -1780,7 +1780,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#3699c398-7806-47ff-ae9e-e4539f4191e0",
+                    "href": "#8358d1a9-dee6-48f0-9ab2-05531b229067",
                     "rel": "reference"
                   }
                 ],
@@ -1869,7 +1869,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#ac5f7327-85f0-4a74-8d7e-36cfb6e069ea",
+                    "href": "#6a857a41-8d1e-4779-ae59-9dfca5f43b79",
                     "rel": "reference"
                   }
                 ],
@@ -1978,7 +1978,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#d15bf9e2-ceeb-4439-b67f-d791386ef401",
+                    "href": "#ae6de987-39fa-4d8a-be8b-e84a4f415588",
                     "rel": "reference"
                   }
                 ],
@@ -2067,7 +2067,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#3a58432e-3839-4486-aec4-f0d8a0167970",
+                    "href": "#13db1c01-8620-48a9-930d-3b76cb812b0f",
                     "rel": "reference"
                   }
                 ],
@@ -2156,7 +2156,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#9b05d345-151e-4ead-9217-1daa9febae64",
+                    "href": "#0f34ed8c-f5f5-4546-aef6-7563eac83605",
                     "rel": "reference"
                   }
                 ],
@@ -2245,7 +2245,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#b011ebfa-1427-49a3-baeb-9c5c104ef0fa",
+                    "href": "#6a78d17a-24a8-4eef-8906-f4ae9f11fa14",
                     "rel": "reference"
                   }
                 ],
@@ -2334,7 +2334,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#107846fd-f0af-40d4-8544-3ecdad7702a2",
+                    "href": "#dae47bed-5dd8-4557-87d3-a73c2f72a5b9",
                     "rel": "reference"
                   }
                 ],
@@ -2423,7 +2423,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#dbb5b9b4-5e13-441d-832d-c81baeee6e36",
+                    "href": "#fc84a913-192c-4670-9d51-d27b49d6ed4e",
                     "rel": "reference"
                   }
                 ],
@@ -2512,7 +2512,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#bb8751c8-7de0-4409-983f-3d91b9b5bb9e",
+                    "href": "#666d19ab-3af2-4c2c-ab54-064e8533b002",
                     "rel": "reference"
                   }
                 ],
@@ -2601,7 +2601,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#10b52d24-800f-4ce5-8e4b-6e0e8a32ce5f",
+                    "href": "#8079ea15-3850-4461-8ea4-eb54afd70f8e",
                     "rel": "reference"
                   }
                 ],
@@ -2690,7 +2690,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#8120a236-263f-44a5-9650-2d007f0046d6",
+                    "href": "#5cf33356-f341-4622-bca0-cd23a4506fd2",
                     "rel": "reference"
                   }
                 ],
@@ -2779,7 +2779,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#0bba37d9-75c3-4b07-89a7-153a41780b22",
+                    "href": "#7497843a-82cd-438a-8147-c727b237a746",
                     "rel": "reference"
                   }
                 ],
@@ -2868,7 +2868,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#72d51d80-ccc7-416b-9659-bc9ffc5cec55",
+                    "href": "#8a16109b-4c36-4c1a-b7cd-8b0d1a7c6404",
                     "rel": "reference"
                   }
                 ],
@@ -2957,7 +2957,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#3bbd638f-0839-4184-827f-7178f1b22e65",
+                    "href": "#9f742a12-6a74-4642-89dc-ea115146ba40",
                     "rel": "reference"
                   }
                 ],
@@ -3046,7 +3046,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#d096aed3-f0e4-41d5-8ea2-49d372f6a094",
+                    "href": "#159fcac7-817d-4d18-8445-d1a07176938a",
                     "rel": "reference"
                   }
                 ],
@@ -3135,7 +3135,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#ecd54bfd-c3d7-4383-9a9e-c7a97f408ab9",
+                    "href": "#d846a1b2-5572-4538-a793-f0343da95db8",
                     "rel": "reference"
                   }
                 ],
@@ -3224,7 +3224,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#4518ff45-6b40-448e-ad93-360349f1ecd7",
+                    "href": "#ae1a4680-9420-44c8-bf4a-cb3cf675b13a",
                     "rel": "reference"
                   }
                 ],
@@ -3313,7 +3313,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#2a49bea8-4ccc-4d6a-82b1-2910142db38f",
+                    "href": "#8f65991c-0e6c-4f1b-ac7d-06096563732e",
                     "rel": "reference"
                   }
                 ],
@@ -3402,7 +3402,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#a20c1208-d92b-4e9d-b265-37261e872937",
+                    "href": "#e45777a3-340d-4dd1-b696-aad7d03692c5",
                     "rel": "reference"
                   }
                 ],
@@ -3491,7 +3491,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#bbcfa828-c0f2-4e45-b2c1-e522322a32b2",
+                    "href": "#0cd5c0a4-9224-4844-bf66-e56c2606a7f3",
                     "rel": "reference"
                   }
                 ],
@@ -3580,7 +3580,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#c0fc778e-e6e0-4485-be48-8adfc4c1e9a6",
+                    "href": "#119806f4-2812-430f-b487-bfd1e583b2e0",
                     "rel": "reference"
                   }
                 ],
@@ -3669,7 +3669,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#068399cd-afc0-4cdd-ad91-43badaf46393",
+                    "href": "#58b37c5e-8551-48f4-9354-0a09d088a942",
                     "rel": "reference"
                   }
                 ],
@@ -3758,7 +3758,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#5c2ef520-45a2-4aef-9127-986905f378ed",
+                    "href": "#94e15341-3fe1-4278-9729-24b494d0f646",
                     "rel": "reference"
                   }
                 ],
@@ -3847,7 +3847,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#fa87efb1-e34d-4a58-a429-6b8e2dbe9a55",
+                    "href": "#383a9927-6c83-48b7-b08d-fcbd445b52f5",
                     "rel": "reference"
                   }
                 ],
@@ -3936,7 +3936,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#a854c4eb-5356-466e-b773-3a6c233f81e8",
+                    "href": "#b1964e06-0a12-425b-92c9-9f15686042ca",
                     "rel": "reference"
                   }
                 ],
@@ -4025,7 +4025,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#e0616028-c22f-48a1-a3d1-8caba8edf95c",
+                    "href": "#3bc70187-7e0a-4abc-9dd4-2a9af88e2ef2",
                     "rel": "reference"
                   }
                 ],
@@ -4114,7 +4114,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#d2686388-52dd-4f9c-ab6c-996e7e6bb34b",
+                    "href": "#8ed2485a-de5d-4ac1-92f4-60dbcfbfbe06",
                     "rel": "reference"
                   }
                 ],
@@ -4203,7 +4203,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#11d4ef9a-628f-4d74-9f25-ee1fe12a6cf3",
+                    "href": "#65cdb168-1349-43a3-afae-aa6ae57d2afb",
                     "rel": "reference"
                   }
                 ],
@@ -4292,7 +4292,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#99497a72-0a12-4a80-becb-7093f3de2fd8",
+                    "href": "#a0f2de91-5e47-4d00-ad8b-fc2b3103178f",
                     "rel": "reference"
                   }
                 ],
@@ -4381,7 +4381,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#ddcbb7f1-23a6-4ee2-bde3-b54e607eaaf4",
+                    "href": "#956b9614-b232-4ce4-8c58-f8391f025b93",
                     "rel": "reference"
                   }
                 ],
@@ -4470,7 +4470,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#3aff359a-1e68-4644-9f3f-2d8f58ae8140",
+                    "href": "#4b9358dc-ccc9-4c61-928e-525bd1b4f6e0",
                     "rel": "reference"
                   }
                 ],
@@ -4559,7 +4559,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#23875b02-3016-4ddf-b162-5e5a9eae6246",
+                    "href": "#fb84ec10-c9dc-4c3d-a8e1-806ade30470b",
                     "rel": "reference"
                   }
                 ],
@@ -4648,7 +4648,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#3df6d56d-31e6-4d79-a2b5-6727fc6a69d1",
+                    "href": "#30ca7b41-c640-4e88-8003-47b6f9f873c7",
                     "rel": "reference"
                   }
                 ],
@@ -4762,7 +4762,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#357899ce-5c0b-4fbf-bf97-8a6988957be8",
+                    "href": "#870ae2da-17d6-4f47-a0d6-09b6998057ea",
                     "rel": "reference"
                   }
                 ],
@@ -4851,7 +4851,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#777c5147-7d37-44b5-a398-9c181edfe053",
+                    "href": "#cd00fd10-7b98-45a9-a0a0-4ff188743fc0",
                     "rel": "reference"
                   }
                 ],
@@ -4940,7 +4940,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#38897595-e942-4e07-a09e-ba7b85ce39dd",
+                    "href": "#6a8202c0-179e-437b-98ff-7c93ae97da91",
                     "rel": "reference"
                   }
                 ],
@@ -5029,7 +5029,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#8c04ca97-e49a-4cc6-853c-088a24c093ad",
+                    "href": "#412bd08a-7f1c-4753-bc3d-9a4e3d9f3626",
                     "rel": "reference"
                   }
                 ],
@@ -5118,7 +5118,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#329cfca2-28d9-49b8-a66e-7e7df80c3dcd",
+                    "href": "#0b4faebc-8e02-4090-abd7-932874d31590",
                     "rel": "reference"
                   }
                 ],
@@ -5207,7 +5207,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#fada8d21-9699-4257-936d-383029f17208",
+                    "href": "#cab02649-8e59-4cf4-953f-1cb9f0ea6fdf",
                     "rel": "reference"
                   }
                 ],
@@ -5296,7 +5296,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#7cfcf42c-4252-4bec-a754-8b8e720cdaa2",
+                    "href": "#16023a08-038c-4d8b-a6e0-17417d678743",
                     "rel": "reference"
                   }
                 ],
@@ -5410,7 +5410,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#f7c06eb5-f55b-43d7-a248-6cc05e42fef1",
+                    "href": "#8fc42bb1-8abe-4402-a4fb-e19ae49720a9",
                     "rel": "reference"
                   }
                 ],
@@ -5499,7 +5499,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#39c3e053-966a-40c3-86fd-45dd33ace88f",
+                    "href": "#f05b512f-7673-4a1f-9a49-78e215508365",
                     "rel": "reference"
                   }
                 ],
@@ -5610,7 +5610,7 @@
             ],
             "links": [
               {
-                "href": "#e00c5b9c-a080-4723-a546-c37ac2db88a5",
+                "href": "#1967498f-bdb4-465f-87cc-a3316aae7a09",
                 "rel": "reference"
               }
             ],
@@ -5699,7 +5699,7 @@
             ],
             "links": [
               {
-                "href": "#675b5d0f-c8ea-42f1-80f0-a1b791f50d4f",
+                "href": "#c429a403-a0ce-42a0-ba90-0272f6f5c68c",
                 "rel": "reference"
               }
             ],
@@ -5788,7 +5788,7 @@
             ],
             "links": [
               {
-                "href": "#ff1a24e0-eb93-4999-9f20-4e636ba4b9c4",
+                "href": "#c83ff1c1-2295-4cb0-b556-d94aedf77ff7",
                 "rel": "reference"
               }
             ],
@@ -5877,7 +5877,7 @@
             ],
             "links": [
               {
-                "href": "#f4b14041-20a3-4a0e-b0f2-64c7d77bd93a",
+                "href": "#a2ab28d1-374f-40b8-9673-5f3e541ab66c",
                 "rel": "reference"
               }
             ],
@@ -5966,7 +5966,7 @@
             ],
             "links": [
               {
-                "href": "#9b3e0ae5-3314-4dec-9c0b-c5379ff90464",
+                "href": "#c37c8285-dc0e-4219-ad9f-aeb6074922a8",
                 "rel": "reference"
               }
             ],
@@ -6055,7 +6055,7 @@
             ],
             "links": [
               {
-                "href": "#c5354ef9-e82b-468b-9d1d-95dc9c8e3950",
+                "href": "#e88a1f89-dfd5-42ac-ac7e-cf62d85c38db",
                 "rel": "reference"
               }
             ],
@@ -6144,7 +6144,7 @@
             ],
             "links": [
               {
-                "href": "#7201496a-1d54-4a6f-a764-d61251325c27",
+                "href": "#0cf07ebf-4aad-4186-8f50-1b71747001d3",
                 "rel": "reference"
               }
             ],
@@ -6531,7 +6531,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#8d2f33bc-af30-42a2-8f1f-7f8a67df533c",
+                    "href": "#e832f447-969e-4849-b663-cc3ac7c4a65c",
                     "rel": "reference"
                   }
                 ],
@@ -6620,7 +6620,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#820de756-f9f8-40e4-8041-1cc3da49cea9",
+                    "href": "#b81af0e0-3c1f-41f5-9aaf-6b062c6b3c55",
                     "rel": "reference"
                   }
                 ],
@@ -6749,7 +6749,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#6e87bc78-32e5-4296-8d60-e460c7ebd7f8",
+                    "href": "#1e4983d1-2221-4f24-8e7a-df1bf30afc52",
                     "rel": "reference"
                   }
                 ],
@@ -6838,7 +6838,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#484dde09-7dac-4aac-b5f4-c39aeb7f0dc6",
+                    "href": "#6c3dc112-476d-431d-ad68-a7ed678ff30e",
                     "rel": "reference"
                   }
                 ],
@@ -6927,7 +6927,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#fe8b454c-9687-489e-a646-870d5dea69a4",
+                    "href": "#3d527a25-b2d0-4659-8ba1-b292a0fa5497",
                     "rel": "reference"
                   }
                 ],
@@ -7016,7 +7016,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#d82129fb-5ade-4d07-890c-9efa7c9d8e34",
+                    "href": "#589bc942-b794-4a60-8911-26eb74b3deec",
                     "rel": "reference"
                   }
                 ],
@@ -7105,7 +7105,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#a4a42e06-a63b-428c-8e13-259b866f022b",
+                    "href": "#152c10e4-27f4-489a-bee6-f2251cb9fedd",
                     "rel": "reference"
                   }
                 ],
@@ -7194,7 +7194,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#feab8760-9742-45b1-9a5d-33296da53d0c",
+                    "href": "#454d29ba-dfcc-4601-858e-353d5a46916c",
                     "rel": "reference"
                   }
                 ],
@@ -7283,7 +7283,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#ab93f37c-06be-4380-ab3a-71f6ffdd6c0d",
+                    "href": "#089781aa-56fd-451c-9efc-326812fa544d",
                     "rel": "reference"
                   }
                 ],
@@ -7372,7 +7372,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#c923d197-a516-4436-b9fb-7f4cd1e9ce71",
+                    "href": "#88a3ace6-aba4-4f94-b708-777440199406",
                     "rel": "reference"
                   }
                 ],
@@ -7461,7 +7461,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#011d4803-8870-40f4-a182-d13a8bd9bfdb",
+                    "href": "#8e19aaac-4143-4f57-920e-684b93c0392f",
                     "rel": "reference"
                   }
                 ],
@@ -7550,7 +7550,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#327770f8-38fe-4d76-909d-1074adb59a25",
+                    "href": "#eac9a4e5-5cfe-46bc-a2f9-73112b7fbc62",
                     "rel": "reference"
                   }
                 ],
@@ -7659,7 +7659,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#fa81365b-c9ea-40f5-8992-152ee550fd3b",
+                    "href": "#4099dc63-5011-49de-b966-a4a804233c28",
                     "rel": "reference"
                   }
                 ],
@@ -7748,7 +7748,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#1af2f161-39c6-4d1a-aa43-444533430516",
+                    "href": "#19438397-01d8-4ed8-b40e-f54e7cccf188",
                     "rel": "reference"
                   }
                 ],
@@ -7837,7 +7837,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#526396ce-ecf2-42c6-8507-9528a82e3a9c",
+                    "href": "#eca4a0ab-3547-4e31-9324-ba95e14a6be6",
                     "rel": "reference"
                   }
                 ],
@@ -7926,7 +7926,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#5a562bd5-e65e-40ef-8b29-aa3fbe219335",
+                    "href": "#a7a2cfe8-caaa-4cde-9733-fad44fe79cc8",
                     "rel": "reference"
                   }
                 ],
@@ -8015,7 +8015,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#436d3f4a-6f78-4bfa-8f73-acb8930930a8",
+                    "href": "#c92a2604-5979-469b-bfcc-e16e6feeeada",
                     "rel": "reference"
                   }
                 ],
@@ -8104,7 +8104,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#a5ef4c6b-e546-4610-9c7a-286a8c3b75c0",
+                    "href": "#3302d6c6-2cad-4d7b-a67c-626bc3f59aa1",
                     "rel": "reference"
                   }
                 ],
@@ -8193,7 +8193,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#4f942dba-25f7-4992-8c59-94dd79f34dd2",
+                    "href": "#0291f91d-407f-46fe-867f-4d805f19704f",
                     "rel": "reference"
                   }
                 ],
@@ -8282,7 +8282,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#a3f538c4-65f9-4b0c-9918-ee17f81ef08c",
+                    "href": "#a9c60c19-a3f2-4819-8613-6a14905230c9",
                     "rel": "reference"
                   }
                 ],
@@ -8449,7 +8449,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#ccd1172f-4b63-4ece-82ad-8e11bc77f006",
+                    "href": "#876a589b-a0ec-42e7-8088-734cf7ef0b57",
                     "rel": "reference"
                   }
                 ],
@@ -8538,7 +8538,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#1d3a5cc0-e497-436e-8719-a4417fe64c8e",
+                    "href": "#bf7c915c-657f-4f50-bec6-73d70113be7a",
                     "rel": "reference"
                   }
                 ],
@@ -8715,7 +8715,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#1190e435-f7d4-400e-8d15-ab74ff180eb6",
+                    "href": "#0bd855df-706e-479d-a112-681246cda9d6",
                     "rel": "reference"
                   }
                 ],
@@ -8832,7 +8832,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#839cdd21-9ac4-4429-b221-f4a6680c680a",
+                    "href": "#dc2407cc-2faa-4055-9357-2a8920cdec8c",
                     "rel": "reference"
                   }
                 ],
@@ -9165,7 +9165,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#739ebc45-0af5-400b-ae55-57ead0eecc32",
+                    "href": "#f9ef7e3d-17b4-4699-9fbd-27356a443b32",
                     "rel": "reference"
                   }
                 ],
@@ -9254,7 +9254,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#289d439c-4de9-40d0-b7e9-10c31cdc0fc6",
+                    "href": "#47e3404e-b9b0-4918-93a4-08856e82d62e",
                     "rel": "reference"
                   }
                 ],
@@ -9343,7 +9343,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#e3ecbbb4-8f68-4da4-9176-4eaaafa44685",
+                    "href": "#b0552a25-57a3-4df8-8b5a-41032898156e",
                     "rel": "reference"
                   }
                 ],
@@ -9432,7 +9432,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#d2c59855-f066-4fb6-bf90-983b0a763350",
+                    "href": "#27c7ab5a-6f53-4d39-a21c-3de359a6d631",
                     "rel": "reference"
                   }
                 ],
@@ -9521,7 +9521,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#d4caed03-4424-40d4-9740-79ce22a8a25e",
+                    "href": "#2f6fa072-54ae-47a1-9ec2-e95b14fde1f8",
                     "rel": "reference"
                   }
                 ],
@@ -9605,7 +9605,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#5e3da026-164f-4fd3-80c6-08e0f6ea3430",
+                    "href": "#c42114ba-7e36-4ad2-8a0e-96be84e534c0",
                     "rel": "reference"
                   }
                 ],
@@ -9689,7 +9689,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#26ab596d-a221-4e20-aa8b-3275c62719db",
+                    "href": "#90026305-a3d4-4402-8a1d-ecf6b6ab6f89",
                     "rel": "reference"
                   }
                 ],
@@ -9773,7 +9773,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#4256503d-a380-4bc2-8183-df2246f12c55",
+                    "href": "#432392e8-79b8-4ebe-9651-3121df195df3",
                     "rel": "reference"
                   }
                 ],
@@ -9857,7 +9857,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#058ac359-97d0-4ba7-8153-d2814e5075f7",
+                    "href": "#647a9453-c108-439c-a918-33e73494752d",
                     "rel": "reference"
                   }
                 ],
@@ -9961,7 +9961,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#c037efed-f661-4723-8d6c-a5fc792ac14b",
+                    "href": "#f862cd60-818e-4c73-9558-e60e5d87855b",
                     "rel": "reference"
                   }
                 ],
@@ -10045,7 +10045,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#82dab238-32c4-4a52-899f-5549e5d3b136",
+                    "href": "#f64b1b18-6cfc-4cbb-b51f-b3792d172727",
                     "rel": "reference"
                   }
                 ],
@@ -10134,7 +10134,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#fce4daa4-9a0b-4096-869e-926ef2d18e68",
+                    "href": "#9b1df229-3000-4870-8373-c1a08722b27e",
                     "rel": "reference"
                   }
                 ],
@@ -10223,7 +10223,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#324d8472-36a8-469d-af62-00390ba2a6ef",
+                    "href": "#a37c105f-ca7a-44f2-b18c-74d786b340da",
                     "rel": "reference"
                   }
                 ],
@@ -10312,7 +10312,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#d8f403c0-2140-4447-9340-ed0def02e930",
+                    "href": "#28d69bbb-716b-488f-876f-033a0061d4ff",
                     "rel": "reference"
                   }
                 ],
@@ -10401,7 +10401,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#fcd8a508-28ba-40ee-aebb-55cffb6e0d5d",
+                    "href": "#856f3669-4848-4a54-9484-7dd686e0bd67",
                     "rel": "reference"
                   }
                 ],
@@ -10490,7 +10490,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#03f9d482-27aa-403a-8181-194fa6440b07",
+                    "href": "#e6ac9a5c-5685-4254-ae1c-9d8b5dfca8c1",
                     "rel": "reference"
                   }
                 ],
@@ -10579,7 +10579,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#7ae54598-4c71-4fd8-a1eb-ede340256562",
+                    "href": "#29fc4979-4294-4f62-a4c0-89be4b6899ec",
                     "rel": "reference"
                   }
                 ],
@@ -10668,7 +10668,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#32e9c1b3-2460-4b86-b47b-9a1fee4ce636",
+                    "href": "#bb3a3363-fa50-4ac0-a842-e23f26ca61c0",
                     "rel": "reference"
                   }
                 ],
@@ -10757,7 +10757,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#d0779b60-c646-4548-819c-fd0dd858705c",
+                    "href": "#d083434d-b071-464d-8024-5179cb67a57b",
                     "rel": "reference"
                   }
                 ],
@@ -10846,7 +10846,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#2bef4e6c-d656-456c-8753-fc4faade7130",
+                    "href": "#e091d0a6-b2b5-41d4-b692-556b878003e3",
                     "rel": "reference"
                   }
                 ],
@@ -10930,7 +10930,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#962376a7-0e86-4c67-9efe-34ab29d446c1",
+                    "href": "#f10b2aa0-cde4-43b4-8b69-45672a38addb",
                     "rel": "reference"
                   }
                 ],
@@ -11014,7 +11014,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#7c2758e0-b183-4837-b214-6fffd38af60d",
+                    "href": "#4378c559-3a6f-4ab4-a237-198254955615",
                     "rel": "reference"
                   }
                 ],
@@ -11111,7 +11111,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#2f222c22-96d9-44cb-919c-092c3a5fd323",
+                    "href": "#72f96d07-9d43-4cbe-bcc1-939a0195f60f",
                     "rel": "reference"
                   }
                 ],
@@ -11205,7 +11205,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#a1b8ea1a-097e-45b6-8893-308a4f4a003b",
+                    "href": "#481a1f24-6524-4e57-8def-834308ba233c",
                     "rel": "reference"
                   }
                 ],
@@ -11307,7 +11307,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#85cbcf1c-c65c-4d96-9dac-6386a990f06a",
+                    "href": "#b3746da6-d7a8-41b2-9b1d-ac722cde5ef4",
                     "rel": "reference"
                   }
                 ],
@@ -11497,7 +11497,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#4e955b0a-5f81-4e3f-a713-7d7642002489",
+                    "href": "#14396341-3ccc-4884-9481-366259e83c69",
                     "rel": "reference"
                   }
                 ],
@@ -11606,7 +11606,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#af84b77c-8c5b-4767-aa76-1b987c6216a9",
+                    "href": "#05c3c9b3-7a50-41a8-80ec-2e100b3f60b3",
                     "rel": "reference"
                   }
                 ],
@@ -11695,7 +11695,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#4f103de3-e88e-464b-9a0c-17d8295182d5",
+                    "href": "#6b201380-ad9f-4b4e-92f4-6c3640791c94",
                     "rel": "reference"
                   }
                 ],
@@ -11784,7 +11784,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#1ec6b37b-1991-4018-b1d4-b5866d8ba93e",
+                    "href": "#274dfc73-67f8-4cf2-867a-9891416234cb",
                     "rel": "reference"
                   }
                 ],
@@ -11912,487 +11912,487 @@
     "back-matter": {
       "resources": [
         {
-          "uuid": "54274e19-a80f-46a4-8c86-1a29ea76845a",
+          "uuid": "39de5eb6-3189-4641-b77c-0e6c9a67947c",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/"
         },
         {
-          "uuid": "df8957cb-3d1a-457c-92b8-2c5daa377a77",
+          "uuid": "9d41624d-8e75-41d2-ad52-0d40336c9a87",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/"
         },
         {
-          "uuid": "2caad50f-6d82-49a6-8d6f-7e5ba77d1ddc",
+          "uuid": "54814cb1-5517-4316-a1de-568fa993892f",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/"
         },
         {
-          "uuid": "3a382954-8b4c-4251-8f20-d2461f9bd5d9",
+          "uuid": "fa897d4e-d520-47ed-956c-2e375fb66803",
           "description": "https://kubernetes.io/docs/admin/kube-controller-manager"
         },
         {
-          "uuid": "0530c0e9-32ac-41a1-8afa-6de5c8a18e6e",
+          "uuid": "e554c7df-8bbc-42fc-969f-c8e6b3b85dd3",
           "description": "https://kubernetes.io/docs/admin/kube-scheduler/"
         },
         {
-          "uuid": "414e5cff-fa6d-48e4-adf8-607a08cdddcb",
+          "uuid": "25ae75cb-74ca-40c1-b853-21593837255d",
           "description": "https://kubernetes.io/docs/admin/kube-scheduler/"
         },
         {
-          "uuid": "a473e4c0-3624-408b-ba02-0abc478d3dae",
+          "uuid": "ba834eeb-eb11-4774-8070-54029b64a534",
           "description": "https://coreos.com/etcd:https://kubernetes.io/docs/admin/etcd/"
         },
         {
-          "uuid": "ae8bbc9e-0216-4a73-926e-9f5f16fd2340",
+          "uuid": "4d968954-7c04-4fc8-9425-2835a4e78e64",
           "description": "https://coreos.com/etcd:https://kubernetes.io/docs/admin/etcd/"
         },
         {
-          "uuid": "e67fee3d-464c-4933-b4ee-e7569b56d0f0",
+          "uuid": "6e0abc91-793a-42c0-8ec5-54b5c84fe8ec",
           "description": "https://kubernetes.io/docs/concepts/cluster-administration/networking/"
         },
         {
-          "uuid": "4dbe6cb5-552f-4ff3-9d06-def6c6ad299d",
+          "uuid": "e7d60e09-0e42-431c-951f-c735775908d3",
           "description": "https://kubernetes.io/docs/concepts/cluster-administration/networking/"
         },
         {
-          "uuid": "55321c24-5df4-4051-8926-c3c336d57d49",
+          "uuid": "48cd216c-08cc-4931-9059-3f6c11ceb30d",
           "description": "https://coreos.com/etcd/docs/latest/op-guide/configuration.html#data-dir:https://kubernetes.io/docs/admin/etcd/"
         },
         {
-          "uuid": "5b39e0bf-0c02-4cbe-ae69-e84abc4c7dec",
+          "uuid": "216dba97-a573-4554-9969-b918f1403fec",
           "description": "https://coreos.com/etcd/docs/latest/op-guide/configuration.html#data-dir:https://kubernetes.io/docs/admin/etcd/"
         },
         {
-          "uuid": "b0067170-3955-474c-8e43-7273e1fe1843",
+          "uuid": "0844898a-22ca-43df-a7a0-f553aba861a8",
           "description": "https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/"
         },
         {
-          "uuid": "dedee445-089f-4004-ae07-b99e560aeb2c",
+          "uuid": "7a5a6412-25d0-469a-a81c-b48a7d167377",
           "description": "https://kubernetes.io/docs/admin/kubeadm/"
         },
         {
-          "uuid": "3027234b-78e7-4e0c-97d5-ff584eaa0a97",
+          "uuid": "fbbd2c84-a0be-4851-8324-636b01384f72",
           "description": "https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/"
         },
         {
-          "uuid": "b144d361-0326-42f0-8cc9-d6363de38e7b",
+          "uuid": "f1aa1af8-4b76-45bc-bc33-9f3895d98a0d",
           "description": "https://kubernetes.io/docs/admin/kubeadm/"
         },
         {
-          "uuid": "240d5f8b-d651-46a2-8ec1-de0735903eb4",
+          "uuid": "afcf47ff-ce82-43d4-a407-09a5762c2fba",
           "description": "https://kubernetes.io/docs/admin/kube-controller-manager/"
         },
         {
-          "uuid": "ce5bee66-a7a1-40b3-9590-9e67fd2f0da9",
+          "uuid": "6046f30b-6be9-49f8-86f6-f2b05e0d0da2",
           "description": "https://kubernetes.io/docs/admin/kube-controller-manager/"
         },
         {
-          "uuid": "6d90514d-6486-404f-8736-253ee80b2bd7",
+          "uuid": "a4d065c1-599d-4291-ae6c-b46ce15dc77e",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/"
         },
         {
-          "uuid": "3699c398-7806-47ff-ae9e-e4539f4191e0",
+          "uuid": "8358d1a9-dee6-48f0-9ab2-05531b229067",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/"
         },
         {
-          "uuid": "ac5f7327-85f0-4a74-8d7e-36cfb6e069ea",
+          "uuid": "6a857a41-8d1e-4779-ae59-9dfca5f43b79",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/"
         },
         {
-          "uuid": "d15bf9e2-ceeb-4439-b67f-d791386ef401",
+          "uuid": "ae6de987-39fa-4d8a-be8b-e84a4f415588",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://kubernetes.io/docs/admin/authentication/#anonymous-requests"
         },
         {
-          "uuid": "3a58432e-3839-4486-aec4-f0d8a0167970",
+          "uuid": "13db1c01-8620-48a9-930d-3b76cb812b0f",
           "description": "https://kubernetes.io/docs/admin/authentication/#static-token-file:https://kubernetes.io/docs/admin/kube-apiserver/"
         },
         {
-          "uuid": "9b05d345-151e-4ead-9217-1daa9febae64",
+          "uuid": "0f34ed8c-f5f5-4546-aef6-7563eac83605",
           "description": "https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/:https://kubernetes.io/docs/admin/kube-apiserver/"
         },
         {
-          "uuid": "b011ebfa-1427-49a3-baeb-9c5c104ef0fa",
+          "uuid": "6a78d17a-24a8-4eef-8906-f4ae9f11fa14",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://kubernetes.io/docs/admin/kubelet-authentication-authorization/:https://kubernetes.io/docs/concepts/cluster-administration/master-node-communication/#apiserver---kubelet"
         },
         {
-          "uuid": "107846fd-f0af-40d4-8544-3ecdad7702a2",
+          "uuid": "dae47bed-5dd8-4557-87d3-a73c2f72a5b9",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://kubernetes.io/docs/admin/kubelet-authentication-authorization/:https://kubernetes.io/docs/concepts/cluster-administration/master-node-communication/#apiserver---kubelet"
         },
         {
-          "uuid": "dbb5b9b4-5e13-441d-832d-c81baeee6e36",
+          "uuid": "fc84a913-192c-4670-9d51-d27b49d6ed4e",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://kubernetes.io/docs/admin/authorization/"
         },
         {
-          "uuid": "bb8751c8-7de0-4409-983f-3d91b9b5bb9e",
+          "uuid": "666d19ab-3af2-4c2c-ab54-064e8533b002",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://kubernetes.io/docs/admin/authorization/node/:https://github.com/kubernetes/kubernetes/pull/46076:https://acotten.com/post/kube17-security"
         },
         {
-          "uuid": "10b52d24-800f-4ce5-8e4b-6e0e8a32ce5f",
+          "uuid": "8079ea15-3850-4461-8ea4-eb54afd70f8e",
           "description": "https://kubernetes.io/docs/reference/access-authn-authz/rbac/"
         },
         {
-          "uuid": "8120a236-263f-44a5-9650-2d007f0046d6",
+          "uuid": "5cf33356-f341-4622-bca0-cd23a4506fd2",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://kubernetes.io/docs/admin/admission-controllers/#eventratelimit:https://github.com/staebler/community/blob/9873b632f4d99b5d99c38c9b15fe2f8b93d0a746/contributors/design-proposals/admission_control_event_rate_limit.md"
         },
         {
-          "uuid": "0bba37d9-75c3-4b07-89a7-153a41780b22",
+          "uuid": "7497843a-82cd-438a-8147-c727b237a746",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://kubernetes.io/docs/admin/admission-controllers/#alwaysadmit"
         },
         {
-          "uuid": "72d51d80-ccc7-416b-9659-bc9ffc5cec55",
+          "uuid": "8a16109b-4c36-4c1a-b7cd-8b0d1a7c6404",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://kubernetes.io/docs/admin/admission-controllers/#alwayspullimages"
         },
         {
-          "uuid": "3bbd638f-0839-4184-827f-7178f1b22e65",
+          "uuid": "9f742a12-6a74-4642-89dc-ea115146ba40",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://kubernetes.io/docs/admin/admission-controllers/#securitycontextdeny:https://kubernetes.io/docs/user-guide/pod-security-policy/#working-with-rbac"
         },
         {
-          "uuid": "d096aed3-f0e4-41d5-8ea2-49d372f6a094",
+          "uuid": "159fcac7-817d-4d18-8445-d1a07176938a",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://kubernetes.io/docs/admin/admission-controllers/#serviceaccount:https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/"
         },
         {
-          "uuid": "ecd54bfd-c3d7-4383-9a9e-c7a97f408ab9",
+          "uuid": "d846a1b2-5572-4538-a793-f0343da95db8",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://kubernetes.io/docs/admin/admission-controllers/#namespacelifecycle"
         },
         {
-          "uuid": "4518ff45-6b40-448e-ad93-360349f1ecd7",
+          "uuid": "ae1a4680-9420-44c8-bf4a-cb3cf675b13a",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://kubernetes.io/docs/admin/admission-controllers/#noderestriction:https://kubernetes.io/docs/admin/authorization/node/:https://acotten.com/post/kube17-security"
         },
         {
-          "uuid": "2a49bea8-4ccc-4d6a-82b1-2910142db38f",
+          "uuid": "8f65991c-0e6c-4f1b-ac7d-06096563732e",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/"
         },
         {
-          "uuid": "a20c1208-d92b-4e9d-b265-37261e872937",
+          "uuid": "e45777a3-340d-4dd1-b696-aad7d03692c5",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://github.com/kubernetes/community/blob/master/contributors/devel/profiling.md"
         },
         {
-          "uuid": "bbcfa828-c0f2-4e45-b2c1-e522322a32b2",
+          "uuid": "0cd5c0a4-9224-4844-bf66-e56c2606a7f3",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://kubernetes.io/docs/concepts/cluster-administration/audit/:https://github.com/kubernetes/features/issues/22"
         },
         {
-          "uuid": "c0fc778e-e6e0-4485-be48-8adfc4c1e9a6",
+          "uuid": "119806f4-2812-430f-b487-bfd1e583b2e0",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://kubernetes.io/docs/concepts/cluster-administration/audit/:https://github.com/kubernetes/features/issues/22"
         },
         {
-          "uuid": "068399cd-afc0-4cdd-ad91-43badaf46393",
+          "uuid": "58b37c5e-8551-48f4-9354-0a09d088a942",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://kubernetes.io/docs/concepts/cluster-administration/audit/:https://github.com/kubernetes/features/issues/22"
         },
         {
-          "uuid": "5c2ef520-45a2-4aef-9127-986905f378ed",
+          "uuid": "94e15341-3fe1-4278-9729-24b494d0f646",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://kubernetes.io/docs/concepts/cluster-administration/audit/:https://github.com/kubernetes/features/issues/22"
         },
         {
-          "uuid": "fa87efb1-e34d-4a58-a429-6b8e2dbe9a55",
+          "uuid": "383a9927-6c83-48b7-b08d-fcbd445b52f5",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://github.com/kubernetes/kubernetes/pull/51415"
         },
         {
-          "uuid": "a854c4eb-5356-466e-b773-3a6c233f81e8",
+          "uuid": "b1964e06-0a12-425b-92c9-9f15686042ca",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://github.com/kubernetes/kubernetes/issues/24167:https://en.wikipedia.org/wiki/Time_of_check_to_time_of_use"
         },
         {
-          "uuid": "e0616028-c22f-48a1-a3d1-8caba8edf95c",
+          "uuid": "3bc70187-7e0a-4abc-9dd4-2a9af88e2ef2",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://github.com/kubernetes/kubernetes/issues/24167"
         },
         {
-          "uuid": "d2686388-52dd-4f9c-ab6c-996e7e6bb34b",
+          "uuid": "8ed2485a-de5d-4ac1-92f4-60dbcfbfbe06",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://coreos.com/etcd/docs/latest/op-guide/security.html"
         },
         {
-          "uuid": "11d4ef9a-628f-4d74-9f25-ee1fe12a6cf3",
+          "uuid": "65cdb168-1349-43a3-afae-aa6ae57d2afb",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:http://rootsquash.com/2016/05/10/securing-the-kubernetes-api/:https://github.com/kelseyhightower/docker-kubernetes-tls-guide"
         },
         {
-          "uuid": "99497a72-0a12-4a80-becb-7093f3de2fd8",
+          "uuid": "a0f2de91-5e47-4d00-ad8b-fc2b3103178f",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:http://rootsquash.com/2016/05/10/securing-the-kubernetes-api/:https://github.com/kelseyhightower/docker-kubernetes-tls-guide"
         },
         {
-          "uuid": "ddcbb7f1-23a6-4ee2-bde3-b54e607eaaf4",
+          "uuid": "956b9614-b232-4ce4-8c58-f8391f025b93",
           "description": "https://kubernetes.io/docs/admin/kube-apiserver/:https://coreos.com/etcd/docs/latest/op-guide/security.html"
         },
         {
-          "uuid": "3aff359a-1e68-4644-9f3f-2d8f58ae8140",
+          "uuid": "4b9358dc-ccc9-4c61-928e-525bd1b4f6e0",
           "description": "https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/:https://acotten.com/post/kube17-security:https://kubernetes.io/docs/admin/kube-apiserver/:https://github.com/kubernetes/features/issues/92"
         },
         {
-          "uuid": "23875b02-3016-4ddf-b162-5e5a9eae6246",
+          "uuid": "fb84ec10-c9dc-4c3d-a8e1-806ade30470b",
           "description": "https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/:https://acotten.com/post/kube17-security:https://kubernetes.io/docs/admin/kube-apiserver/:https://github.com/kubernetes/features/issues/92:https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/#providers"
         },
         {
-          "uuid": "3df6d56d-31e6-4d79-a2b5-6727fc6a69d1",
+          "uuid": "30ca7b41-c640-4e88-8003-47b6f9f873c7",
           "description": "https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices#23-use-secure-cipher-suites"
         },
         {
-          "uuid": "357899ce-5c0b-4fbf-bf97-8a6988957be8",
+          "uuid": "870ae2da-17d6-4f47-a0d6-09b6998057ea",
           "description": "https://kubernetes.io/docs/admin/kube-controller-manager/:https://github.com/kubernetes/kubernetes/issues/28484"
         },
         {
-          "uuid": "777c5147-7d37-44b5-a398-9c181edfe053",
+          "uuid": "cd00fd10-7b98-45a9-a0a0-4ff188743fc0",
           "description": "https://kubernetes.io/docs/admin/kube-controller-manager/:https://github.com/kubernetes/community/blob/master/contributors/devel/profiling.md"
         },
         {
-          "uuid": "38897595-e942-4e07-a09e-ba7b85ce39dd",
+          "uuid": "6a8202c0-179e-437b-98ff-7c93ae97da91",
           "description": "https://kubernetes.io/docs/admin/kube-controller-manager/:https://kubernetes.io/docs/admin/service-accounts-admin/:https://github.com/kubernetes/kubernetes/blob/release-1.6/plugin/pkg/auth/authorizer/rbac/bootstrappolicy/testdata/controller-roles.yaml:https://github.com/kubernetes/kubernetes/blob/release-1.6/plugin/pkg/auth/authorizer/rbac/bootstrappolicy/testdata/controller-role-bindings.yaml:https://kubernetes.io/docs/admin/authorization/rbac/#controller-roles"
         },
         {
-          "uuid": "8c04ca97-e49a-4cc6-853c-088a24c093ad",
+          "uuid": "412bd08a-7f1c-4753-bc3d-9a4e3d9f3626",
           "description": "https://kubernetes.io/docs/admin/kube-controller-manager/"
         },
         {
-          "uuid": "329cfca2-28d9-49b8-a66e-7e7df80c3dcd",
+          "uuid": "0b4faebc-8e02-4090-abd7-932874d31590",
           "description": "https://kubernetes.io/docs/admin/kube-controller-manager/:https://github.com/kubernetes/kubernetes/issues/11000"
         },
         {
-          "uuid": "fada8d21-9699-4257-936d-383029f17208",
+          "uuid": "cab02649-8e59-4cf4-953f-1cb9f0ea6fdf",
           "description": "https://kubernetes.io/docs/admin/kubelet-tls-bootstrapping/#approval-controller:https://github.com/kubernetes/features/issues/267:https://github.com/kubernetes/kubernetes/pull/45059:https://kubernetes.io/docs/admin/kube-controller-manager/"
         },
         {
-          "uuid": "7cfcf42c-4252-4bec-a754-8b8e720cdaa2",
+          "uuid": "16023a08-038c-4d8b-a6e0-17417d678743",
           "description": "https://kubernetes.io/docs/reference/command-line-tools-reference/kube-controller-manager/"
         },
         {
-          "uuid": "f7c06eb5-f55b-43d7-a248-6cc05e42fef1",
+          "uuid": "8fc42bb1-8abe-4402-a4fb-e19ae49720a9",
           "description": "https://kubernetes.io/docs/admin/kube-scheduler/:https://github.com/kubernetes/community/blob/master/contributors/devel/profiling.md"
         },
         {
-          "uuid": "39c3e053-966a-40c3-86fd-45dd33ace88f",
+          "uuid": "f05b512f-7673-4a1f-9a49-78e215508365",
           "description": "https://kubernetes.io/docs/reference/command-line-tools-reference/kube-scheduler/"
         },
         {
-          "uuid": "e00c5b9c-a080-4723-a546-c37ac2db88a5",
+          "uuid": "1967498f-bdb4-465f-87cc-a3316aae7a09",
           "description": "https://coreos.com/etcd/docs/latest/op-guide/security.html:https://kubernetes.io/docs/admin/etcd/"
         },
         {
-          "uuid": "675b5d0f-c8ea-42f1-80f0-a1b791f50d4f",
+          "uuid": "c429a403-a0ce-42a0-ba90-0272f6f5c68c",
           "description": "https://coreos.com/etcd/docs/latest/op-guide/security.html:https://kubernetes.io/docs/admin/etcd/:https://coreos.com/etcd/docs/latest/op-guide/configuration.html#client-cert-auth"
         },
         {
-          "uuid": "ff1a24e0-eb93-4999-9f20-4e636ba4b9c4",
+          "uuid": "c83ff1c1-2295-4cb0-b556-d94aedf77ff7",
           "description": "https://coreos.com/etcd/docs/latest/op-guide/security.html:https://kubernetes.io/docs/admin/etcd/:https://coreos.com/etcd/docs/latest/op-guide/configuration.html#auto-tls"
         },
         {
-          "uuid": "f4b14041-20a3-4a0e-b0f2-64c7d77bd93a",
+          "uuid": "a2ab28d1-374f-40b8-9673-5f3e541ab66c",
           "description": "https://coreos.com/etcd/docs/latest/op-guide/security.html:https://kubernetes.io/docs/admin/etcd/"
         },
         {
-          "uuid": "9b3e0ae5-3314-4dec-9c0b-c5379ff90464",
+          "uuid": "c37c8285-dc0e-4219-ad9f-aeb6074922a8",
           "description": "https://coreos.com/etcd/docs/latest/op-guide/security.html:https://kubernetes.io/docs/admin/etcd/:https://coreos.com/etcd/docs/latest/op-guide/configuration.html#peer-client-cert-auth"
         },
         {
-          "uuid": "c5354ef9-e82b-468b-9d1d-95dc9c8e3950",
+          "uuid": "e88a1f89-dfd5-42ac-ac7e-cf62d85c38db",
           "description": "https://coreos.com/etcd/docs/latest/op-guide/security.html:https://kubernetes.io/docs/admin/etcd/:https://coreos.com/etcd/docs/latest/op-guide/configuration.html#peer-auto-tls"
         },
         {
-          "uuid": "7201496a-1d54-4a6f-a764-d61251325c27",
+          "uuid": "0cf07ebf-4aad-4186-8f50-1b71747001d3",
           "description": "https://coreos.com/etcd/docs/latest/op-guide/security.html"
         },
         {
-          "uuid": "8d2f33bc-af30-42a2-8f1f-7f8a67df533c",
+          "uuid": "e832f447-969e-4849-b663-cc3ac7c4a65c",
           "description": "https://kubernetes.io/docs/tasks/debug-application-cluster/audit/"
         },
         {
-          "uuid": "820de756-f9f8-40e4-8041-1cc3da49cea9",
+          "uuid": "b81af0e0-3c1f-41f5-9aaf-6b062c6b3c55",
           "description": "https://github.com/k8scop/k8s-security-dashboard/blob/master/configs/kubernetes/adv-audit.yaml:https://kubernetes.io/docs/tasks/debug-application-cluster/audit/#audit-policy:https://github.com/falcosecurity/falco/blob/master/examples/k8s_audit_config/audit-policy.yaml:https://github.com/kubernetes/kubernetes/blob/master/cluster/gce/gci/configure-helper.sh#L735"
         },
         {
-          "uuid": "6e87bc78-32e5-4296-8d60-e460c7ebd7f8",
+          "uuid": "1e4983d1-2221-4f24-8e7a-df1bf30afc52",
           "description": "https://kubernetes.io/docs/admin/kubelet/:https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/#44-joining-your-nodes:https://kubernetes.io/docs/admin/kubeadm/#kubelet-drop-in"
         },
         {
-          "uuid": "484dde09-7dac-4aac-b5f4-c39aeb7f0dc6",
+          "uuid": "6c3dc112-476d-431d-ad68-a7ed678ff30e",
           "description": "https://kubernetes.io/docs/admin/kubelet/:https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/#44-joining-your-nodes:https://kubernetes.io/docs/admin/kubeadm/#kubelet-drop-in"
         },
         {
-          "uuid": "fe8b454c-9687-489e-a646-870d5dea69a4",
+          "uuid": "3d527a25-b2d0-4659-8ba1-b292a0fa5497",
           "description": "https://kubernetes.io/docs/admin/kube-proxy/"
         },
         {
-          "uuid": "d82129fb-5ade-4d07-890c-9efa7c9d8e34",
+          "uuid": "589bc942-b794-4a60-8911-26eb74b3deec",
           "description": "https://kubernetes.io/docs/admin/kube-proxy/"
         },
         {
-          "uuid": "a4a42e06-a63b-428c-8e13-259b866f022b",
+          "uuid": "152c10e4-27f4-489a-bee6-f2251cb9fedd",
           "description": "https://kubernetes.io/docs/admin/kubelet/"
         },
         {
-          "uuid": "feab8760-9742-45b1-9a5d-33296da53d0c",
+          "uuid": "454d29ba-dfcc-4601-858e-353d5a46916c",
           "description": "https://kubernetes.io/docs/admin/kubelet/"
         },
         {
-          "uuid": "ab93f37c-06be-4380-ab3a-71f6ffdd6c0d",
+          "uuid": "089781aa-56fd-451c-9efc-326812fa544d",
           "description": "https://kubernetes.io/docs/admin/authentication/#x509-client-certs"
         },
         {
-          "uuid": "c923d197-a516-4436-b9fb-7f4cd1e9ce71",
+          "uuid": "88a3ace6-aba4-4f94-b708-777440199406",
           "description": "https://kubernetes.io/docs/admin/authentication/#x509-client-certs"
         },
         {
-          "uuid": "011d4803-8870-40f4-a182-d13a8bd9bfdb",
+          "uuid": "8e19aaac-4143-4f57-920e-684b93c0392f",
           "description": "https://kubernetes.io/docs/tasks/administer-cluster/kubelet-config-file/"
         },
         {
-          "uuid": "327770f8-38fe-4d76-909d-1074adb59a25",
+          "uuid": "eac9a4e5-5cfe-46bc-a2f9-73112b7fbc62",
           "description": "https://kubernetes.io/docs/tasks/administer-cluster/kubelet-config-file/"
         },
         {
-          "uuid": "fa81365b-c9ea-40f5-8992-152ee550fd3b",
+          "uuid": "4099dc63-5011-49de-b966-a4a804233c28",
           "description": "https://kubernetes.io/docs/admin/kubelet/:https://kubernetes.io/docs/admin/kubelet-authentication-authorization/#kubelet-authentication"
         },
         {
-          "uuid": "1af2f161-39c6-4d1a-aa43-444533430516",
+          "uuid": "19438397-01d8-4ed8-b40e-f54e7cccf188",
           "description": "https://kubernetes.io/docs/admin/kubelet/:https://kubernetes.io/docs/admin/kubelet-authentication-authorization/#kubelet-authentication"
         },
         {
-          "uuid": "526396ce-ecf2-42c6-8507-9528a82e3a9c",
+          "uuid": "eca4a0ab-3547-4e31-9324-ba95e14a6be6",
           "description": "https://kubernetes.io/docs/admin/kubelet/:https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet-authentication-authorization/"
         },
         {
-          "uuid": "5a562bd5-e65e-40ef-8b29-aa3fbe219335",
+          "uuid": "a7a2cfe8-caaa-4cde-9733-fad44fe79cc8",
           "description": "https://kubernetes.io/docs/admin/kubelet/"
         },
         {
-          "uuid": "436d3f4a-6f78-4bfa-8f73-acb8930930a8",
+          "uuid": "c92a2604-5979-469b-bfcc-e16e6feeeada",
           "description": "https://kubernetes.io/docs/admin/kubelet/:https://github.com/kubernetes/kubernetes/pull/18552"
         },
         {
-          "uuid": "a5ef4c6b-e546-4610-9c7a-286a8c3b75c0",
+          "uuid": "3302d6c6-2cad-4d7b-a67c-626bc3f59aa1",
           "description": "https://kubernetes.io/docs/admin/kubelet/"
         },
         {
-          "uuid": "4f942dba-25f7-4992-8c59-94dd79f34dd2",
+          "uuid": "0291f91d-407f-46fe-867f-4d805f19704f",
           "description": "https://kubernetes.io/docs/admin/kubelet/:https://github.com/kubernetes/kubernetes/issues/22063"
         },
         {
-          "uuid": "a3f538c4-65f9-4b0c-9918-ee17f81ef08c",
+          "uuid": "a9c60c19-a3f2-4819-8613-6a14905230c9",
           "description": "https://kubernetes.io/docs/admin/kubelet/:https://github.com/kubernetes/kubernetes/blob/master/pkg/kubelet/apis/kubeletconfig/v1beta1/types.go"
         },
         {
-          "uuid": "ccd1172f-4b63-4ece-82ad-8e11bc77f006",
+          "uuid": "876a589b-a0ec-42e7-8088-734cf7ef0b57",
           "description": "https://github.com/kubernetes/kubernetes/pull/41912:https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet-tls-bootstrapping/#kubelet-configuration:https://kubernetes.io/docs/imported/release/notes/:https://kubernetes.io/docs/reference/command-line-tools-reference/feature-gates/"
         },
         {
-          "uuid": "1d3a5cc0-e497-436e-8719-a4417fe64c8e",
+          "uuid": "bf7c915c-657f-4f50-bec6-73d70113be7a",
           "description": "https://github.com/kubernetes/kubernetes/pull/45059:https://kubernetes.io/docs/admin/kubelet-tls-bootstrapping/#kubelet-configuration"
         },
         {
-          "uuid": "1190e435-f7d4-400e-8d15-ab74ff180eb6",
+          "uuid": "0bd855df-706e-479d-a112-681246cda9d6",
           "description": "https://kubernetes.io/docs/concepts/policy/pid-limiting/#pod-pid-limits"
         },
         {
-          "uuid": "839cdd21-9ac4-4429-b221-f4a6680c680a",
+          "uuid": "dc2407cc-2faa-4055-9357-2a8920cdec8c",
           "description": "https://kubernetes.io/docs/admin/authorization/rbac/#user-facing-roles"
         },
         {
-          "uuid": "739ebc45-0af5-400b-ae55-57ead0eecc32",
+          "uuid": "f9ef7e3d-17b4-4699-9fbd-27356a443b32",
           "description": "https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/"
         },
         {
-          "uuid": "289d439c-4de9-40d0-b7e9-10c31cdc0fc6",
+          "uuid": "47e3404e-b9b0-4918-93a4-08856e82d62e",
           "description": "https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/"
         },
         {
-          "uuid": "e3ecbbb4-8f68-4da4-9176-4eaaafa44685",
+          "uuid": "b0552a25-57a3-4df8-8b5a-41032898156e",
           "description": "https://github.com/kubernetes/kubernetes/blob/master/pkg/registry/rbac/escalation_check.go#L38"
         },
         {
-          "uuid": "d2c59855-f066-4fb6-bf90-983b0a763350",
+          "uuid": "27c7ab5a-6f53-4d39-a21c-3de359a6d631",
           "description": "https://www.impidio.com/blog/kubernetes-rbac-security-pitfalls:https://raesene.github.io/blog/2020/12/12/Escalating_Away/:https://raesene.github.io/blog/2021/01/16/Getting-Into-A-Bind-with-Kubernetes/"
         },
         {
-          "uuid": "d4caed03-4424-40d4-9740-79ce22a8a25e",
+          "uuid": "2f6fa072-54ae-47a1-9ec2-e95b14fde1f8",
           "description": "https://kubernetes.io/docs/concepts/security/rbac-good-practices/#persistent-volume-creation"
         },
         {
-          "uuid": "5e3da026-164f-4fd3-80c6-08e0f6ea3430",
+          "uuid": "c42114ba-7e36-4ad2-8a0e-96be84e534c0",
           "description": "https://kubernetes.io/docs/concepts/security/rbac-good-practices/#access-to-proxy-subresource-of-nodes:https://kubernetes.io/docs/reference/access-authn-authz/kubelet-authn-authz/#kubelet-authorization"
         },
         {
-          "uuid": "26ab596d-a221-4e20-aa8b-3275c62719db",
+          "uuid": "90026305-a3d4-4402-8a1d-ecf6b6ab6f89",
           "description": "https://kubernetes.io/docs/concepts/security/rbac-good-practices/#csrs-and-certificate-issuing"
         },
         {
-          "uuid": "4256503d-a380-4bc2-8183-df2246f12c55",
+          "uuid": "432392e8-79b8-4ebe-9651-3121df195df3",
           "description": "https://kubernetes.io/docs/concepts/security/rbac-good-practices/#control-admission-webhooks"
         },
         {
-          "uuid": "058ac359-97d0-4ba7-8153-d2814e5075f7",
+          "uuid": "647a9453-c108-439c-a918-33e73494752d",
           "description": "https://kubernetes.io/docs/concepts/security/rbac-good-practices/#token-request"
         },
         {
-          "uuid": "c037efed-f661-4723-8d6c-a5fc792ac14b",
+          "uuid": "f862cd60-818e-4c73-9558-e60e5d87855b",
           "description": "https://kubernetes.io/docs/concepts/security/pod-security-admission"
         },
         {
-          "uuid": "82dab238-32c4-4a52-899f-5549e5d3b136",
+          "uuid": "f64b1b18-6cfc-4cbb-b51f-b3792d172727",
           "description": "https://kubernetes.io/docs/concepts/security/pod-security-standards/"
         },
         {
-          "uuid": "fce4daa4-9a0b-4096-869e-926ef2d18e68",
+          "uuid": "9b1df229-3000-4870-8373-c1a08722b27e",
           "description": "https://kubernetes.io/docs/concepts/security/pod-security-standards/"
         },
         {
-          "uuid": "324d8472-36a8-469d-af62-00390ba2a6ef",
+          "uuid": "a37c105f-ca7a-44f2-b18c-74d786b340da",
           "description": "https://kubernetes.io/docs/concepts/security/pod-security-standards/"
         },
         {
-          "uuid": "d8f403c0-2140-4447-9340-ed0def02e930",
+          "uuid": "28d69bbb-716b-488f-876f-033a0061d4ff",
           "description": "https://kubernetes.io/docs/concepts/security/pod-security-standards/"
         },
         {
-          "uuid": "fcd8a508-28ba-40ee-aebb-55cffb6e0d5d",
+          "uuid": "856f3669-4848-4a54-9484-7dd686e0bd67",
           "description": "https://kubernetes.io/docs/concepts/security/pod-security-standards/"
         },
         {
-          "uuid": "03f9d482-27aa-403a-8181-194fa6440b07",
+          "uuid": "e6ac9a5c-5685-4254-ae1c-9d8b5dfca8c1",
           "description": "https://kubernetes.io/docs/concepts/security/pod-security-standards/"
         },
         {
-          "uuid": "7ae54598-4c71-4fd8-a1eb-ede340256562",
+          "uuid": "29fc4979-4294-4f62-a4c0-89be4b6899ec",
           "description": "https://kubernetes.io/docs/concepts/security/pod-security-standards/:https://www.nccgroup.trust/uk/our-research/abusing-privileged-and-unprivileged-linux-containers/"
         },
         {
-          "uuid": "32e9c1b3-2460-4b86-b47b-9a1fee4ce636",
+          "uuid": "bb3a3363-fa50-4ac0-a842-e23f26ca61c0",
           "description": "https://kubernetes.io/docs/concepts/security/pod-security-standards/:https://www.nccgroup.trust/uk/our-research/abusing-privileged-and-unprivileged-linux-containers/"
         },
         {
-          "uuid": "d0779b60-c646-4548-819c-fd0dd858705c",
+          "uuid": "d083434d-b071-464d-8024-5179cb67a57b",
           "description": "https://kubernetes.io/docs/concepts/security/pod-security-standards/:https://www.nccgroup.trust/uk/our-research/abusing-privileged-and-unprivileged-linux-containers/"
         },
         {
-          "uuid": "2bef4e6c-d656-456c-8753-fc4faade7130",
+          "uuid": "e091d0a6-b2b5-41d4-b692-556b878003e3",
           "description": "https://kubernetes.io/docs/tasks/configure-pod-container/create-hostprocess-pod/:https://kubernetes.io/docs/concepts/security/pod-security-standards/"
         },
         {
-          "uuid": "962376a7-0e86-4c67-9efe-34ab29d446c1",
+          "uuid": "f10b2aa0-cde4-43b4-8b69-45672a38addb",
           "description": "https://kubernetes.io/docs/concepts/security/pod-security-standards/"
         },
         {
-          "uuid": "7c2758e0-b183-4837-b214-6fffd38af60d",
+          "uuid": "4378c559-3a6f-4ab4-a237-198254955615",
           "description": "https://kubernetes.io/docs/concepts/security/pod-security-standards/"
         },
         {
-          "uuid": "2f222c22-96d9-44cb-919c-092c3a5fd323",
+          "uuid": "72f96d07-9d43-4cbe-bcc1-939a0195f60f",
           "description": "https://kubernetes.io/docs/concepts/extend-kubernetes/compute-storage-net/network-plugins/"
         },
         {
-          "uuid": "a1b8ea1a-097e-45b6-8893-308a4f4a003b",
+          "uuid": "481a1f24-6524-4e57-8def-834308ba233c",
           "description": "https://kubernetes.io/docs/concepts/services-networking/networkpolicies/:https://octetz.com/posts/k8s-network-policy-apis:https://kubernetes.io/docs/tasks/configure-pod-container/declare-network-policy/"
         },
         {
-          "uuid": "85cbcf1c-c65c-4d96-9dac-6386a990f06a",
+          "uuid": "b3746da6-d7a8-41b2-9b1d-ac722cde5ef4",
           "description": "https://kubernetes.io/docs/concepts/configuration/secret/#using-secrets"
         },
         {
-          "uuid": "4e955b0a-5f81-4e3f-a713-7d7642002489",
+          "uuid": "14396341-3ccc-4884-9481-366259e83c69",
           "description": "https://kubernetes.io/docs/admin/admission-controllers/#imagepolicywebhook:https://github.com/kubernetes/community/blob/master/contributors/design-proposals/image-provenance.md:https://hub.docker.com/r/dnurmi/anchore-toolbox/:https://github.com/kubernetes/kubernetes/issues/22888"
         },
         {
-          "uuid": "af84b77c-8c5b-4767-aa76-1b987c6216a9",
+          "uuid": "05c3c9b3-7a50-41a8-80ec-2e100b3f60b3",
           "description": "https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/#viewing-namespaces:http://blog.kubernetes.io/2016/08/security-best-practices-kubernetes-deployment.html:https://github.com/kubernetes/enhancements/tree/master/keps/sig-node/589-efficient-node-heartbeats"
         },
         {
-          "uuid": "4f103de3-e88e-464b-9a0c-17d8295182d5",
+          "uuid": "6b201380-ad9f-4b4e-92f4-6c3640791c94",
           "description": "https://kubernetes.io/docs/tutorials/clusters/seccomp/:https://docs.docker.com/engine/security/seccomp/"
         },
         {
-          "uuid": "1ec6b37b-1991-4018-b1d4-b5866d8ba93e",
+          "uuid": "274dfc73-67f8-4cf2-867a-9891416234cb",
           "description": "https://kubernetes.io/docs/concepts/policy/security-context/:https://learn.cisecurity.org/benchmarks"
         }
       ]
