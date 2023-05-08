@@ -1,0 +1,5 @@
+# Codeowners file
+# Add owners of the files/directories here
+* @vikas-agarwal76 @enikonovad @ancatri @degenaro
+*.md @vikas-agarwal76 @enikonovad @ancatri @degenaro
+*.json @vikas-agarwal76 @enikonovad @ancatri @degenaro
