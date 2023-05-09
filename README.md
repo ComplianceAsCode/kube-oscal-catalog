@@ -1,7 +1,7 @@
 # kube-oscal-catalog
 Kube OSCAL catalog
 
-#### Initial catalog
+#### initial catalog
 
 To create the initial OSCAL catalog: 
 
