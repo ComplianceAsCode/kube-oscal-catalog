@@ -27,3 +27,10 @@ These scripts were customized in scripts/automation as follows.
 - `export COMMIT_BODY="Sync catalogs with kube-oscal-catalog repo"`
 - `cd kube-oscal-profile`
 - `remote=https://$GIT_TOKEN@github.com/ComplianceAsCode/kube-oscal-profile`
+
+##### repo customization
+
+Settings -> Secrets and variables -> Actions
+
+- Add Repository secret `GIT_TOKEN` with your personal token created [here](https://github.com/settings/tokens)
+- Be sure token has `workflow` checked
