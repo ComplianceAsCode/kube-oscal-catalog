@@ -12,7 +12,7 @@ To create the initial OSCAL catalog:
 
 #### automation scripts customizations
 
-These scripts were customized in scripts/automation as follows.
+These scripts were customized in scripts automation as follows.
 
 ##### check_and_update_all.sh
 
