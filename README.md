@@ -16,7 +16,7 @@ These scripts were customized in scripts/automation as follows.
 
 ##### check_and_update_all.sh
 
-- `trestle task ocp4-cis-profile-to-oscal-catalog -c data/trestle task cis-xlsx-to-oscal-catalog data/cis-xlsx-ocp-to-oscal-catalog.config`
+- `trestle task cis-xlsx-to-oscal-catalog -c data/cis-xlsx-ocp-to-oscal-catalog.config`
 
 ##### check_and_update_all.sh
 

@@ -14,8 +14,8 @@ json1=$"^catalogs/"
 json2=$"\.json$"
 
 # xlsx to OSCAL catalog conversion has to be done separately as we cannot put the CIS benchmark XLSX file in git
-# txt1=$"^adjunct-data/"
-# txt2=$"\.profile$"
+# txt1=$"^data/"
+# txt2=$"\.xlsx$"
 
 for val in ${CHANGES[@]} ; do
   if [[ $val =~ $md1 && $val =~ $md2 ]]; then
@@ -31,9 +31,10 @@ for val in ${CHANGES[@]} ; do
   # fi
 done
 
+# xlsx to OSCAL catalog conversion has to be done separately as we cannot put the CIS benchmark XLSX file in git
 # if [[ $txt_changed = true ]]; then
-    # echo "Profile data file(s) were changes, converting txt to catalogs and regenerating markdowns..."
-    # trestle task ocp4-cis-profile-to-oscal-catalog -c data/trestle task cis-xlsx-to-oscal-catalog data/cis-xlsx-ocp-to-oscal-catalog.config
+    # echo "xlsx data file were changes, converting xlsx to catalogs and regenerating markdowns..."
+    # trestle task cis-xlsx-to-oscal-catalog -c data/cis-xlsx-ocp-to-oscal-catalog.config
     # ./scripts/automation/regenerate_catalogs.sh
 # fi
 
